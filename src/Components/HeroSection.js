@@ -14,7 +14,10 @@ const HeroSection = () => {
           while keeping the larger team goal in view
         </p>
         <div className="flex justify-center md:justify-start">
-          <a className="p-3 px-6 text-white bg-bred rounded-full baseline hover:bg-bredLight">
+          <a
+            href="#"
+            className="p-3 px-6 text-white bg-bred rounded-full baseline hover:bg-bredLight"
+          >
             Get Started
           </a>
         </div>

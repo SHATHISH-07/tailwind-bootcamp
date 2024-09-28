@@ -34,7 +34,10 @@ const NavBar = () => {
         </div>
 
         {/* Button */}
-        <a className="hidden md:block p-3 px-6 text-white bg-bred rounded-full baseline hover:bg-bredLight">
+        <a
+          href="#"
+          className="hidden md:block p-3 px-6 text-white bg-bred rounded-full baseline hover:bg-bredLight"
+        >
           Get Started
         </a>
       </div>
